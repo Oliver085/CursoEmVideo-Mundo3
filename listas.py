@@ -1,4 +1,4 @@
-#Listas ficam em colchetes [] e sao mutaveis, ou seja, podem ser alteradas
+# --- Listas ficam em colchetes [] e sao mutaveis, ou seja, podem ser alteradas ---
 #Tuplas ficam em parenteses () nao sao mutaveis, ou seja, nao podem ser alteradas
 #.append() adiciona um elemento no final da lista
 #.insert() adiciona um elemento em uma posicao especifica da lista

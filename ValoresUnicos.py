@@ -6,4 +6,4 @@ else:
     lista.append(valor)
     print('Valor adicionado com sucesso...')
 print('-='*30) 
-print(f'Os valores digitados foram {sorted(lista)}')
+
