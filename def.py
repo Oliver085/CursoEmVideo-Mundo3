@@ -1,4 +1,5 @@
-def mostralinha():
-    print("________________________")
+def soma(a, b):
+    s = a + b
+    print(f"A soma de {a} e {b} é {s}")
 
-mostralinha()
+soma(5, 6)
